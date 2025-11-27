@@ -1,7 +1,7 @@
 # Exp No: 8 — Solve Cryptarithmetic Problem (Constraint Satisfaction Problem) using Python  
 
 ### Name: Sanjana Sri N
-### Register Number:  2305002007
+### Register Number:  2305003007
 
 ---
 
